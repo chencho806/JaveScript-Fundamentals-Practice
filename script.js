@@ -8,3 +8,13 @@
 // let firstName = "Chencho";
 
 // console.log(firstName)
+
+
+const age = 15;
+const isOldEnough = age >= 18;
+
+if(isOldEnough) {
+    console.log('Chencho can start driving')
+} else {
+    console.log('Grow up')
+}

@@ -25,12 +25,12 @@
 // console.log(markBMIHigher)
 
 
-const firstName = 'Chencho';
-const job = 'Developer'
-const birthYear = 1989;
-const year = 2022;
+// const firstName = 'Chencho';
+// const job = 'Developer'
+// const birthYear = 1989;
+// const year = 2022;
 
 
-const chencho = 'I\'m ' + firstName + ', a ' + (year - birthYear) + ' year old ' + job + '!';
+// const chencho = 'I\'m ' + firstName + ', a ' + (year - birthYear) + ' year old ' + job + '!';
 
-console.log(chencho)
+// console.log(chencho)

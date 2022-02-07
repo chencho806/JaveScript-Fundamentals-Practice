@@ -36,17 +36,17 @@
 // console.log(chencho)
 
 
-let massMark = 78
-let heightMark = 1.69
-let massJohn = 105
-let heightJohn = 1.95
+// let massMark = 78
+// let heightMark = 1.69
+// let massJohn = 105
+// let heightJohn = 1.95
 
-const BMIMark = Math.round(massMark / heightMark **2);
-const BMIJohn = Math.round(massJohn / heightJohn **2);
+// const BMIMark = Math.round(massMark / heightMark **2);
+// const BMIJohn = Math.round(massJohn / heightJohn **2);
 
 
-if (massMark > massJohn) {
-    console.log(`Marks BMI (${BMIMark}) is higher than John\'s BMI (${BMIJohn}).` )
-} else {
-    console.log(`Marks BMI (${BMIMark}) is lower than John\'s BMI (${BMIJohn}).` )
-}
+// if (massMark > massJohn) {
+//     console.log(`Marks BMI (${BMIMark}) is higher than John\'s BMI (${BMIJohn}).` )
+// } else {
+//     console.log(`Marks BMI (${BMIMark}) is lower than John\'s BMI (${BMIJohn}).` )
+// }

@@ -10,11 +10,23 @@
 // console.log(firstName)
 
 
-const age = 15;
-const isOldEnough = age >= 18;
+// const age = 15;
+// const isOldEnough = age >= 18;
 
-if(isOldEnough) {
-    console.log('Chencho can start driving')
+// if(isOldEnough) {
+//     console.log('Chencho can start driving');
+// } else {
+//     console.log('Grow up');
+// }
+
+
+const birthYear = 1989;
+let century;
+
+if(birthYear >= 2000) {
+     century = 20 + 'th';
 } else {
-    console.log('Grow up')
+     century = 21 + 'th';
 }
+
+console.log(century);

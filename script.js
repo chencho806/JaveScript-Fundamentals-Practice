@@ -20,13 +20,14 @@
 // }
 
 
-const birthYear = 1989;
-let century;
+// const birthYear = 1989;
+// let century;
 
-if(birthYear >= 2000) {
-     century = 20 + 'th';
-} else {
-     century = 21 + 'th';
-}
+// if(birthYear >= 2000) {
+//      century = 20 + 'th';
+// } else {
+//      century = 21 + 'th';
+// }
 
-console.log(century);
+// console.log(century);
+

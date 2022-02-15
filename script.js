@@ -47,3 +47,7 @@ if (favNum === 23) {
 } else {
     console.log('Nah')
 }
+
+if (favNum !== 13) {
+    console.log('Tite')
+}

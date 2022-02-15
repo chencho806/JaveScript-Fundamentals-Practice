@@ -36,3 +36,14 @@
 const age = 16;
 
 if (age === 18) console.log('You just became an adult');
+
+
+const favNum = parseInt(prompt('Whats your fav num?'))
+
+console.log(favNum)
+
+if (favNum === 23) {
+    console.log('Cool')
+} else {
+    console.log('Nah')
+}

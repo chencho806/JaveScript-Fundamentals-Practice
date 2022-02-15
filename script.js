@@ -32,3 +32,7 @@
 // console.log(century);
 
 //   
+
+const age = 16;
+
+if (age === 18) console.log('You just became an adult');

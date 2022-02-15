@@ -31,6 +31,4 @@
 
 // console.log(century);
 
-const inputYear = '1989';
-
-console.log(parseInt(inputYear) + 20)
+//   
